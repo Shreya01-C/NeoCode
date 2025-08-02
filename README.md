@@ -18,8 +18,7 @@
 
 ```plaintext
 Legacy Code → Analyzer → Refactor Engine → Helm Generator → Charts → CI/CD
-
----
+```
 
 # How to use
 python core/orchestrator.py python samples/legacy.py
