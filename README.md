@@ -21,6 +21,8 @@ Legacy Code → Analyzer → Refactor Engine → Helm Generator → Charts → C
 ```
 
 # How to use
+```
 python core/orchestrator.py python samples/legacy.py
 python core/orchestrator.py java samples/legacy.java
 python core/orchestrator.py cpp samples/legacy.cpp
+```
